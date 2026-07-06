@@ -150,7 +150,7 @@ The models were evaluated using:
 
 ## Correlation Heatmap
 
-![Heatmap](screenshots/heatmap.png)
+<img width="920" height="796" alt="image" src="https://github.com/user-attachments/assets/59814a8d-8359-485a-8c5d-6d3ccaa049a7" />
 
 ---
 
