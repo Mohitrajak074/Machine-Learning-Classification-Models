@@ -180,13 +180,13 @@ The models were evaluated using:
 
 ## Accuracy Comparison
 
-![Accuracy Comparison](screenshots/accuracy_comparison.png)
+<img width="490" height="472" alt="image" src="https://github.com/user-attachments/assets/dce8814e-b6cf-4864-9989-f1a626ee77ea" />
 
 ---
 
 ## ROC Comparison
+<img width="822" height="567" alt="image" src="https://github.com/user-attachments/assets/01d81556-144a-4e82-a972-37fa50dfc89b" />
 
-![ROC Comparison](screenshots/roc_comparison.png)
 
 ---
 
