@@ -156,7 +156,7 @@ The models were evaluated using:
 
 ## Confusion Matrix (Logistic Regression)
 
-![Confusion Matrix](screenshots/confusion_matrix_lr.png)
+<img width="432" height="400" alt="image" src="https://github.com/user-attachments/assets/f75769a4-4ecf-412c-824e-ff7b53980b61" />
 
 ---
 
