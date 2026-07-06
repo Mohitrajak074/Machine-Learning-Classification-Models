@@ -144,7 +144,7 @@ The models were evaluated using:
 
 ## Target Distribution
 
-![Target Distribution](screenshots/target_distribution.png)
+<img width="823" height="650" alt="image" src="https://github.com/user-attachments/assets/63828f35-7dc6-4786-8844-b2a57707135f" />
 
 ---
 
