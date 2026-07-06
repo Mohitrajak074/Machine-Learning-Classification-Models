@@ -138,7 +138,7 @@ The models were evaluated using:
 
 ## Dataset Preview
 
-![Dataset](screenshots/dataset_preview.png)
+<img width="1533" height="340" alt="image" src="https://github.com/user-attachments/assets/bed721e7-3f35-4ddb-82ee-f4b9e55b83f7" />
 
 ---
 
