@@ -162,19 +162,19 @@ The models were evaluated using:
 
 ## ROC Curve
 
-![ROC](screenshots/roc_curve.png)
+<img width="623" height="495" alt="image" src="https://github.com/user-attachments/assets/d3369cd2-27d0-42b8-999b-a0d34e4ef90d" />
 
 ---
 
 ## Precision-Recall Curve
 
-![PR Curve](screenshots/precision_recall_curve.png)
+<img width="858" height="640" alt="image" src="https://github.com/user-attachments/assets/246aa52e-6b8c-40f6-9677-f75d8a700374" />
 
 ---
 
 ## Feature Importance
 
-![Feature Importance](screenshots/feature_importance.png)
+<img width="1087" height="621" alt="image" src="https://github.com/user-attachments/assets/58dd18b2-5f6f-48de-bb53-274de5d7f3d0" />
 
 ---
 
