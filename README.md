@@ -192,7 +192,7 @@ The models were evaluated using:
 
 ## Model Comparison
 
-![Comparison](screenshots/model_comparison.png)
+<img width="827" height="607" alt="image" src="https://github.com/user-attachments/assets/9f7fffe3-d945-42e3-a776-e6fd97375010" />
 
 ---
 
