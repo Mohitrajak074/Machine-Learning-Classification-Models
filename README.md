@@ -51,8 +51,8 @@ Breast Cancer Wisconsin Dataset (Scikit-Learn)
 
 | Value | Meaning |
 |-------|---------|
-| 0 | Malignant |
-| 1 | Benign |
+| 0 | Malignant   |
+| 1 | Benign      |
 
 ---
 
