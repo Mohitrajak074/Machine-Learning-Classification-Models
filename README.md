@@ -129,8 +129,8 @@ The models were evaluated using:
 
 | Model               | Accuracy | Precision | Recall | F1 Score | AUC   |
 |---------------------|----------|-----------|---------|----------|------|
-| Logistic Regression |0.99737962659679 |  0.98    |0.95   |  0.96| 43   |
-| Decision Tree       |0.9473684210526315 |0.97    | 0.99  | 0.98 |  71  |  
+| Logistic Regression |0.99737962659679 |  0.98   |0.95   |  0.96| 43   |
+| Decision Tree       |0.9473684210526315 |0.97   | 0.99  | 0.98 |  71  |  
 
 ---
 
